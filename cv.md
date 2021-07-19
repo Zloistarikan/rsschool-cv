@@ -15,6 +15,7 @@ ___
 ___
 ### *Sample code*
 ```html
+
       Password <br />
       <input name="password" type="password" placeholder="password" />
       <p>remember the password</p><input name="remember" type="checkbox" value="yes"/><br>
@@ -29,6 +30,7 @@ ___
     <a href="#anchor">вернуться к заголовку</a>
   </body>
 </html>
+
 ```
 ___
 ### *I have no experience as a programmer*
