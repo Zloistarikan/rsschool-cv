@@ -14,7 +14,7 @@ ___
 * Git
 ___
 ### *Sample code*
-```HTML
+```html
       Password <br />
       <input name="password" type="password" placeholder="password" />
       <p>remember the password</p><input name="remember" type="checkbox" value="yes"/><br>
