@@ -1,1 +1,0 @@
-https://Zloistarikan.github.io/rsschool-cv/cv
