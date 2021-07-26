@@ -1,1 +1,1 @@
-https://Zloistarikan.github.io/rsschool-cv/cv
+https://Zloistarikan.github.io/rsschool-cv/
